@@ -1,0 +1,14 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  Tourze\ProductAttributeBundle\Repository\:
+    resource: '../../Repository/'
+
+  Tourze\ProductAttributeBundle\Service\:
+    resource: '../../Service/'
+
+  Tourze\ProductAttributeBundle\Controller\:
+    resource: '../../Controller/'
+    tags: ['controller.service_arguments']
