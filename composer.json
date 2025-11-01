@@ -27,7 +27,7 @@
     "symfony/yaml": "^7.3",
     "tourze/arrayable": "1.*",
     "tourze/bundle-dependency": "1.*",
-    "tourze/catalog-bundle": "0.0.*",
+    "tourze/catalog-bundle": "1.0.*",
     "tourze/doctrine-indexed-bundle": "1.0.*",
     "tourze/doctrine-ip-bundle": "1.0.*",
     "tourze/doctrine-snowflake-bundle": "1.0.*",
@@ -38,7 +38,7 @@
     "tourze/product-core-bundle": "0.0.*",
     "tourze/symfony-dependency-service-loader": "1.*",
     "tourze/symfony-routing-auto-loader-bundle": "1.0.*",
-    "tourze/tag-manage-bundle": "0.0.*"
+    "tourze/tag-manage-bundle": "1.0.*"
   },
   "require-dev": {
     "doctrine/data-fixtures": "^2.0",
